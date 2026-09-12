@@ -26,6 +26,6 @@ npm install
 # 웹 개발 서버 실행
 npm run web
 
-# 또는 모바일 개발 서버
-npm start
+# 웹 정적 번들 빌드 (/docs 배포용)
+npm run build:web
 ```
